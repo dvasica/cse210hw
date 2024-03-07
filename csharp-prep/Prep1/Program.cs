@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    //ask user their name
+    //ask user their name dawnwd,sadfgff
     static void Main(string[] args)
     {
         Console.Write("What is your first name?");
